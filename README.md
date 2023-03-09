@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-***
+
 
 * Add Internet Information Services
 * Add MySQL 5.5
