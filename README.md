@@ -107,7 +107,7 @@ Step 9 Restart IIS. In IIS navigate to osticket folder click on 80* hyperlink
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JPQExGD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 10 Enable php extensions for osTicket functionality
