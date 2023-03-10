@@ -44,6 +44,6 @@ Install and Enable IIS in Windows
 <img src="https://i.imgur.com/lu1bA7K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- Navigate to 12xxx to check that web server is running
+ Navigate to 127.0.0.1 to check that web server is running
 </p>
 <br />
