@@ -154,4 +154,50 @@ Step 14 Download HeidiSQL to access the mysql server
 
 <p>
 
+<p>
+<img src="https://i.imgur.com/WqzGFhX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 15 Connect to the Session
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/1sPFdok.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 16 Create a New Database Called OsTicket
+</p>
+<br />
+
+<p>
+
+ <p>
+<img src="https://i.imgur.com/IdJJWjR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+Step 17 Cleanup Steps Delete Setup Folder in wwwroot folder
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/SiChEqz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 18 in C navigate to wroot . osticket. include. ost-config and set permissions back to read only
+</p>
+<br />
+
+<p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+
+
+
 
