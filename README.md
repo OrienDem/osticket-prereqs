@@ -118,4 +118,22 @@ Step 10 Enable php extensions for osTicket functionality
 
 <p>
 
+<p>
+<img src="https://i.imgur.com/bRoRvVx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 11 rename sample config to config
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ZT5f8Nv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 12 in the securities tab, Remove permissions. Then Grant Permissions to Everyone 
+</p>
+<br />
+
+<p>
+
 
