@@ -80,4 +80,22 @@ Step 6 Restart IIS</p>
 
 <p>
 
+<p>
+<img src="https://i.imgur.com/OtMvxFz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 7 Download OsTicket and Copy Upload Folder into Webserver's main folder
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/TXNWexd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 8 rename upload folder to osTicket
+</p>
+<br />
+
+<p>
+
 
