@@ -63,4 +63,21 @@ Step 4 Run IIS as Admin </p>
 
 <p>
 
+<p>
+<img src="https://i.imgur.com/9RKO3oT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 5 Register New PHP Version w fast CGI
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/bWhVqHr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 6 Restart IIS</p>
+<br />
+
+<p>
+
 
