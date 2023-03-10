@@ -136,4 +136,22 @@ Step 12 in the securities tab, Remove permissions. Then Grant Permissions to Eve
 
 <p>
 
+<p>
+<img src="https://i.imgur.com/OEaCxKs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 13 Continue Setting Up Os Ticket in Browser
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 14 Download HeidiSQL to access the mysql server
+</p>
+<br />
+
+<p>
+
 
