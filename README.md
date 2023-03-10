@@ -190,7 +190,7 @@ Step 18 in C navigate to wroot . osticket. include. ost-config and set permissio
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HSfQNzA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Final Step Login osticket
