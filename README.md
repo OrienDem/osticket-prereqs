@@ -38,8 +38,6 @@
 Install and Enable IIS in Windows
 </p>
 <br />
-
-
 <p>
 <img src="https://i.imgur.com/lu1bA7K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -47,3 +45,22 @@ Install and Enable IIS in Windows
  Navigate to 127.0.0.1 to check that web server is running
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Hcc0dL9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 3 Install MySQL
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/IGtnJsB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 4 Run IIS as Admin </p>
+<br />
+
+<p>
+
+
