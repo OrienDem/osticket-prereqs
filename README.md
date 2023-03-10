@@ -111,9 +111,7 @@ Step 9 Restart IIS. In IIS navigate to osticket folder click on 80* hyperlink
 </p>
 <p>
 Step 10 Enable php extensions for osTicket functionality
- Enable: php_imap.dll
-Enable: php_intl.dll
-Enable: php_opcache.dll
+  php_imap.dll, php_intl.dll and php_opcache.dll
 
 </p>
 <br />
